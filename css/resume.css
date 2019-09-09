@@ -52,19 +52,19 @@ p.lead {
   .social-icons a:last-child {
     margin-right: 0; }
   .social-icons a:hover {
-    background-color: #8C472E; }
+    background-color: #3F704D; }
 
 .dev-icons {
   font-size: 3rem; }
   .dev-icons .list-inline-item i:hover {
-    color: #8C472E; }
+    color: #3F704D; }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
   text-transform: uppercase; }
 #sideNav .navbar-toggler:focus {
-  outline-color: #c26645; }
+  outline-color: #5ba16f; }
 
 @media (min-width: 992px) {
   #sideNav {
@@ -115,14 +115,14 @@ section.resume-section {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important; } }
 .bg-primary {
-  background-color: #8C472E !important; }
+  background-color: #3F704D !important; }
 
 .text-primary {
-  color: #8C472E !important; }
+  color: #3F704D !important; }
 
 a {
-  color: #8C472E; }
+  color: #3F704D; }
   a:hover, a:focus, a:active {
-    color: #522a1b; }
+    color: #233f2b; }
 
 /*# sourceMappingURL=resume.css.map */
